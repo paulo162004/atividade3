@@ -1,0 +1,8 @@
+Nome: Fulano de Tal
+Cargo: Programador
+Habilidades: Java, Python, C++
+Idade: 30
+Sexo: M
+Endereço: Rua dos Programadores, 123
+Cidade: Cidade dos Bits
+Estado: TE
